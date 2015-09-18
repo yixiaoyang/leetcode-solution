@@ -1,7 +1,5 @@
 #include "includes.h"
 
-using namespace std;
-
 // Manacher
 class LongestPalindromeSolution {
 public:
@@ -99,7 +97,7 @@ private:
     }
 };
 
-int main()
+int main5()
 {
     string dst("#");
     string src("1232454232414211");
